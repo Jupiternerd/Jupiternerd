@@ -1,7 +1,7 @@
 # Wassup
 
-I am 17 and I like anime girls. 
-graphic design is also my passion (Follow all my links pls I need clout) :
+I am 17 and Anime is my life,
+graphic design is also my passion (Follow all my links pls) :
 
 ![image](https://i.kym-cdn.com/photos/images/newsfeed/001/018/866/e44.png)
 ```JSON
