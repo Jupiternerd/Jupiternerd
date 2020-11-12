@@ -7,7 +7,7 @@ graphic design is also my passion (Follow all my links pls I need clout) :
 ```JSON
 {
   "artstation": "https://www.artstation.com/shokkunn",
-  "pixiv_if_ur_asian_too": "https://pixiv.me/shokkuun",
+  "pixiv": "https://pixiv.me/shokkuun",
   "artstreet": "https://medibang.com/u/Shokkunn/",
   "steam": "https://steamcommunity.com/id/Shokkunn/",
     "fav_artists": {
