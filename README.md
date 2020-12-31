@@ -1,4 +1,4 @@
-# Wassup
+# Hello!
 
 Hello college application reviewers! Below are my links to my sites where I upload my work.
 graphic design is also my passion (Follow all my links pls) :
