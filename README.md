@@ -9,5 +9,5 @@
 ![img](https://i.imgur.com/9K2clnw.png)
 
 
-_Its time_
+_Thanks for visiting_ 
 
