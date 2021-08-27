@@ -7,6 +7,7 @@
 🔗 |  x [Personal Website](https://www.shokkunn.art/) _Under Construction_, but scroll all the way down for **contact info**.
 
 ![img](https://i.imgur.com/9K2clnw.png)
+_Untitiled, me, 2020? idk probably 2020._
 
 
 _Thanks for visiting_ 
