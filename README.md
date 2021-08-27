@@ -1,6 +1,6 @@
 # I should have majored in art.
 
-💬 |  x I can _technically_ draw, code, write, model (not the flashy cool kind), anything you want- Always fun to learn new things, as long as it's not boring. Comfortable with **Js **and **Py**. **Clip Studio Pain**t and **Procreate** for art. **Blender** for 3D renders. **Discord** for main communications. **Mezes Neo 99** on 24/7.
+💬 |  x I can _technically_ draw, code, write, model (not the flashy cool kind), anything you want- Always fun to learn new things, as long as it's not boring. Comfortable with **Js** and **Py**. **Clip Studio Pain**t and **Procreate** for art. **Blender** for 3D renders. **Discord** for main communications. **Mezes Neo 99** on 24/7.
 
 🍊 |  x Currently learning **Blender**.
 
