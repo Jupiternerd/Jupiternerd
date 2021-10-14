@@ -7,8 +7,6 @@
 🔗 |  x [Personal Website](https://www.shokkunn.art/) _Under Construction_, but scroll all the way down for **contact info**.
 
 ![img](https://cdnb.artstation.com/p/assets/images/images/040/903/207/large/wai-hlaing-asset.jpg?1630211129)
-_Untitiled, me, 2020? idk probably 2020._
+_Untitiled, me, 2021_
 
-
-_Thank you for visiting_ 
 
