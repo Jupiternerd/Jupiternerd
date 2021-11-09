@@ -1,8 +1,8 @@
 # :)
 
-💬 |  x I can draw, code, write (stretching it), model (not the flashy cool kind), anything you want- Self Taught everything. Always fun to learn new things, as long as it's not boring. Comfortable with **Js** and **Py**🐍. **Clip Studio Pain**t and **Procreate** for art. **Blender** for 3D renders. **Discord** for main communications. **Mezes Neo 99** on 24/7.
+💬 |  x I can draw, code, write (stretching it), model (not the flashy cool kind), anything you want- Self Taught everything. Always fun to learn new things, as long as it's not boring. Comfortable with **Js** and **Py**🐍. **Clip Studio Pain**t and **Procreate** for art. **Blender** for 3D renders. **Discord** wit da bois.
 
-🍊 |  x Currently learning **Blender**.
+🍊 |  x Currently learning how to walk.
 
 🔗 |  x [Personal Website](https://www.shokkunn.art/) _Under Construction_, but scroll all the way down for **contact info**.
 
