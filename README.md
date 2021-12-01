@@ -2,7 +2,7 @@
 
 💬 |  x Hello.
 
-🍊 |  x Currently learning how to walk.
+🍊 |  x Currently learning typescript.
 
 🔗 |  x [Personal Website](https://www.shokkunn.art/) _Under Construction_, but scroll all the way down for **contact info**.
 
