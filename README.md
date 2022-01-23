@@ -4,7 +4,7 @@
 
 🍊 |  x Currently working on a ts project.
 
-🎨 |  x [art](pixiv.me/shokkuun)
+🎨 |  x [art](https://pixiv.me/shokkuun)
 
 🔗 |  x [Personal Website](https://www.shokkunn.art/) _Under Construction_, but scroll all the way down for **contact info**.
 
