@@ -1,6 +1,14 @@
 # <(-w-)>
 
-💬 |  x Hello.
+💬 |  x Hello, my name's Wai and I'm currently 19. 
+I am also an artist, check me out on my (a lot of sites, bear with me here lol):
+
+[Instagram](https://www.instagram.com/shokk.unn/)
+[Pixiv](https://www.pixiv.me/shokkuun)
+[ArtStreet](https://medibang.com/u/Shokkunn/)
+[ArtStation](https://www.artstation.com/shokkunn)
+
+Thank you, :]
 
 🍊 |  x Currently working on a ts project.
 
