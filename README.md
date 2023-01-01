@@ -1,6 +1,6 @@
 # <(-w-)>
 
-💬 |  x Hello, my name's Wai and I'm a 19 year old college student. 
+💬 |  x Hello, my name's Wai and I'm a 19 year old college student && programmer. 
 I am also an artist, check me out on my:
 
 [Instagram](https://www.instagram.com/shokk.unn/)
