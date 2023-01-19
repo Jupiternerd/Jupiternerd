@@ -11,7 +11,7 @@ I am also an artist! Check me out on my:
 
 Thank you, :]
 
-![img](https://i.imgur.com/TFpBocA.png)
+![img](https://i.imgur.com/I1wOmXi.png)
 _Tomoe, me, December 2022_
 
 
