@@ -3,11 +3,11 @@
 💬 |  x Hello, my name's Wai and I'm a 19 year old college student && programmer. 
 I am also an artist! Check me out on my:
 
-[Personal Website](https://www.shokkunn.art/)\n
-[Instagram](https://www.instagram.com/shokk.unn/)\n
-[Pixiv](https://www.pixiv.me/shokkuun)\n
-[ArtStreet](https://medibang.com/u/Shokkunn/)\n
-[ArtStation](https://www.artstation.com/shokkunn)\n
+[Personal Website](https://www.shokkunn.art/) |
+[Instagram](https://www.instagram.com/shokk.unn/) |
+[Pixiv](https://www.pixiv.me/shokkuun) |
+[ArtStreet](https://medibang.com/u/Shokkunn/) |
+[ArtStation](https://www.artstation.com/shokkunn)
 
 Thank you, :]
 
