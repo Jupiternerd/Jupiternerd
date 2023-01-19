@@ -11,7 +11,7 @@ I am also an artist! Check me out on my:
 
 Thank you, :]
 
-![img](https://cdnb.artstation.com/p/assets/images/images/045/626/363/large/shokkunn-celestialdot-blue-planes-watermarked.jpg?1643160403)
-_Celestial 2, me, 2022_
+![img](https://i.imgur.com/TFpBocA.png)
+_Tomoe, me, December 2022_
 
 
