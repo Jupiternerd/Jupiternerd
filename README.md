@@ -1,6 +1,6 @@
 # Hello!
 
-💬 |  x Hello, my name's Wai and I'm a 19 year old college student && programmer. 
+💬 |  x Hello, my name's Wai and I'm a college student && programmer. 
 I am also an artist! Check me out on my:
 
 ~~[Personal Website](https://www.shokkunn.art/)~~ |
