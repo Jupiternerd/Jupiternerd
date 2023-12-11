@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">
 
-<a href="https://www.shokkunn.art/" target="_blank"><img src="https://media.giphy.com/media/1Ir5ognfMO0xh5TAzT/giphy.gif" width="40" height="40"/>
+<a href="https://www.shokkunn.art/" target="_blank"><img src="https://media.giphy.com/media/zfMUfYLMAWNCpaTCFF/giphy.gif" width="42" height="42"/>
 <a href="https://www.artstation.com/shokkunn" target="_blank"><img src="https://i.imgur.com/jHcuSt1.png" width="40" height="40"/>
 <a href="https://www.linkedin.com/in/wai-hlaing-b9a3a81b8/" target="_blank"><img src="https://i.imgur.com/uD9h1aY.png" width="40" height="40"/>
 <a href="https://medibang.com/u/Shokkunn/" target="_blank"><img src="https://i.imgur.com/jfe2ok8.png" width="40" height="40"/>
