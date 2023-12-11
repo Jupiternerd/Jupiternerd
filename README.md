@@ -1,9 +1,8 @@
 # Hello!
 
-💬 |  x Hello, my name's Wai and I'm a college student && programmer. 
-I am also an artist! Check me out on my:
+🌻 | Hey! I am a Emerging Media Studies student with a passion for Programming and Art. 
 
-[Personal Website](https://www.shokkunn.art/) Revamped! |
+[Personal Website](https://www.shokkunn.art/) |
 [Instagram](https://www.instagram.com/shokk.unn/) |
 [Pixiv](https://www.pixiv.me/shokkuun) |
 [ArtStreet](https://medibang.com/u/Shokkunn/) |
