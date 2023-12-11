@@ -15,6 +15,6 @@
 </h1>
 
 <h2 align="center"><img src="https://i.imgur.com/6FJZa7b.gif" width="800" height="400"/></h2>
-<p align="center"> (🖼 Stable Diffusion -> Pika AI) </p>
+<p align="center"> (🖼 Stable Diffusion -> Pika AI -> After Effects) </p>
 
 
