@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://i.imgur.com/i07aA83.gif" width="200" height="70"/></h1>
 
-<h3 align="center">Welcome to my GitHub Profile!</h3>
+<h3 align="center">Hey!</h3>
 <p align="center"> I am currently enrolled @ Hunter College as a Media Studies Student. Coding + Art are my hobbies~ My current obsession is w/generative AI. I've been working with these new tools for a while now and am developing toolchains and projects for/with it! <br>
   <h4 align ="center">⭕ Comfortable w/ ⭕</h4>
   <h3 align="center">JS/TS / Redis / MongoDB / Bun / NodeJS / SQL / NextJS / DiscordJS</h3> 
