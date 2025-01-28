@@ -3,7 +3,7 @@
 <h3 align="center">Hey!</h3>
 <p align="center"> Hunter College Senior w/ interests in generative AI tooling & full stack apps. Email/Discord for inquiries.<br>
   <h4 align ="center">⭕ Comfortable w/ ⭕</h4>
-  <h3 align="center">JS/TS / Redis / MongoDB / Bun / NodeJS / SQL / NextJS / DiscordJS</h3> 
+  <h3 align="center">JS/TS / Redis / MongoDB / Bun / NodeJS / SQL / NextJS / React / DiscordJS</h3> 
 </p>
 <h1 align="center">
 
